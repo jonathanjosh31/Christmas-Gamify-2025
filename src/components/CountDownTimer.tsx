@@ -49,7 +49,7 @@ export default function CountdownTimer() {
           🎄 Christmas Countdown! 🎅
         </h1>
         <h1 className="text-emerald-500 md:text-3xl font-bold text-center mb-6">
-          Keep an eye out! We're cooking something special 🎉
+          Keep an eye out! We&apos;re cooking something special 🎉
         </h1>
 
         <div className="flex flex-row justify-center items-center gap-1 md:gap-3">
